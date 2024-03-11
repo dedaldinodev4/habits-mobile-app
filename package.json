@@ -1,6 +1,10 @@
 {
   "name": "habits-app",
   "version": "1.0.0",
+  "author": {
+    "name": "Dedaldino Daniel",
+    "email": "dedaldinodev4@gmail.com"
+  },
   "scripts": {
     "android": "expo start --android",
     "format": "eslint \"**/*.{js,jsx,ts,tsx}\" --fix && prettier \"**/*.{js,jsx,ts,tsx,json}\" --write",
